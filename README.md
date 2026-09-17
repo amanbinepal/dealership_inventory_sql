@@ -54,3 +54,14 @@ Three SSRS reports, each built on one of the queries above:
 - **InventorySummary**: inventory counts by make and model with a parameterized dropdown to filter to a single make (or "All")
 - **PricingSummary**: average price and mileage by model with currency and number formatted
 - **AgingInventory**: the 15 longest-sitting vehicles currently in stock
+
+## Screenshots
+
+### Reports deployed to the SSRS web portal
+![SSRS Portal](screenshots/ssrs_portal.png)
+
+### Inventory Summary, filtered by make
+![Inventory Summary](screenshots/inventory_summary_report.png)
+
+### Aging Inventory
+![Aging Inventory](screenshots/aging_inventory_report.png)
